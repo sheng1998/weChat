@@ -96,7 +96,7 @@
                     </ul>
                   </li>
 
-                  <li><a href="http://localhost:8080/">退出聊天</a></li>
+                  <li><a href="#">退出聊天</a></li>
                 </ul>
               </div>
             </div>
