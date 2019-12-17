@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "ZhanKuKuaiLeTi";
+    src: url('../font/站酷快乐体.ttf');
+}
+
+@font-face {
+    font-family: "ZhanKuWenYiTi";
+    src: url('../font/站酷文艺体.ttf');
+}
+
+@font-face {
+    font-family: "ZhanKuYiDaLiTi";
+    src: url('../font/站酷意大利体.ttf');
+}
+
+@font-face {
+    font-family: 'ChaoJiXiZiXing';
+    src: url('../font/超极细字型.ttf');
+}
+
+@font-face {
+    font-family: "HanYiXianErTi";
+    src: url('../font/汉仪贤二体.ttf');
+}
+
+@font-face {
+    font-family: "HuaKangErFengTi";
+    src: url('../font/华康儿风体.ttc');
+}
+
+@font-face {
+    font-family: "HuaKangGangBiTi";
+    src: url('../font/华康钢笔体.ttc');
+}
+
+@font-face {
+    font-family: "HuaKangWaWaTi";
+    src: url('../font/华康娃娃体.ttc');
+}
+
+@font-face {
+    font-family: "LanHuZiTi";
+    src: url('../font/濑户字体.ttf');
+}
+
+@font-face {
+    font-family: "MuYaoRuanBiShouXieTi";
+    src: url('../font/沐瑶软笔手写体.ttf');
+}
+
+@font-face {
+    font-family: "QuanZiKuShuoWenXieZi";
+    src: url('../font/全字库说文解字.ttf');
+}
+
+@font-face {
+    font-family: "YangRenDongZhuLinTi";
+    src: url('../font/杨任东竹石体.ttf');
+}
+
+@font-face {
+    font-family: "YanJieMingChao";
+    src: url('../font/源界明朝.ttf');
+}
